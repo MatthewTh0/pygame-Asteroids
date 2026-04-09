@@ -5,3 +5,5 @@ Reimplement git
 What is jq
 
 Need to use source .venv/bin/activate (have file for that)
+
+I understand most of logger/asteroid field/triangle method in player but not completely
