@@ -48,7 +48,6 @@ def main():
             drawableObject.draw(screen)
         pygame.display.flip()
         dt = timer.tick(60)/1000
-        # print(dt)
 
 if __name__ == "__main__":
     main()
